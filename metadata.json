@@ -1,0 +1,5 @@
+{
+  "name": "智能魔法橡皮擦",
+  "description": "基于Gemini AI的智能图片去水印与对象移除工具。上传图片，涂抹想要去除的区域，AI自动帮您无痕修复。",
+  "requestFramePermissions": []
+}
